@@ -20,7 +20,7 @@
 -	Pilih download the ISO kemudian ikutin sesuai step by stepnya. Jangan lupa centang "yes" kemudian continue
 ```
 
-![image](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211124201721555.png)
+![image-20211124201721555](https://user-images.githubusercontent.com/93067781/143375255-dec98471-b363-408b-b1d3-2d82d1b7514e.png)
 
 ```markdown
 -	Pilih bahasa yang diinginkan dan klik download
