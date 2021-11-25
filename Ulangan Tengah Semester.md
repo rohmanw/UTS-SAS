@@ -26,7 +26,7 @@
 -	Pilih bahasa yang diinginkan dan klik download
 ```
 
-![image](https://user-images.githubusercontent.com/62064492/143054412-3007ddec-869b-4b2a-8005-904741790331.png)
+![image](https://user-images.githubusercontent.com/93067781/143375374-f0a9552d-b068-4567-9120-c642310ae7a4.png)
 
 ```markdown
 2. Langkah-langkah instalasi Windows Server 2022 :
@@ -36,20 +36,18 @@
 -	Buka VM dan pilih New, lalu next
 ```
 
-![image-20211124200737862](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211124200737862.png)
-
+![image](https://user-images.githubusercontent.com/93067781/143375439-a5e65f39-eb3f-48b1-8963-9175a5783bb9.png)
 ```markdown
 -	Lalu ganti memory size sesuai yang diinginkan
 ```
 
-![image-20211124202102222](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211124202102222.png)
+![image](https://user-images.githubusercontent.com/93067781/143375508-64620ec4-7e40-4c56-b7b3-94b5f7d3bb0e.png)
 
 ```markdown
 -	Pilih Create a virtual hard disk now, lalu Create
 ```
 
-![image-20211124202257824](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211124202257824.png)
-
+![image](https://user-images.githubusercontent.com/93067781/143375540-5af1407b-c689-4eb0-9e55-0dabbbf55567.png)
 ```markdown
 -	Pilih VDI, lalu next
 ```
