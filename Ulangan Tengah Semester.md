@@ -52,8 +52,7 @@
 -	Pilih VDI, lalu next
 ```
 
-![image-20211124202425499](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211124202425499.png)
-
+![image](https://user-images.githubusercontent.com/93067781/143376128-d22be5d5-1081-4e51-943b-67438289c87f.png)
 ```markdown
 -	Pilih Dynamically allocated, lalu next
 ```
